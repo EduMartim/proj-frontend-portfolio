@@ -22,8 +22,8 @@ function updateProfileInfo(profileData) {
     mail.href = `mailto:${profileData.mail}`;
 }
 
-
 (async () => {
     const profileData = await fetchProfileData();
     updateProfileInfo(profileData);
 })();
+
