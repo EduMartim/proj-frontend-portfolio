@@ -1,10 +1,10 @@
 {
   "name": "Eduardo Martim",
   "photo": "https://avatars.githubusercontent.com/u/65382981?v=4",
-  "job": "Software Engineer",
-  "location": "São Paulo - SP",
+  "position": "Software Engineer",
+  "local": "São Paulo - SP",
   "phone": "(11) 95315-1004",
-  "email": "edumartim@gmail.com",
+  "mail": "edumartim@gmail.com",
   "skills": {
     "hardSkills": [
       {
