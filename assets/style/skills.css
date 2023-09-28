@@ -3,7 +3,7 @@
     flex-direction: column;
 }
 
-.skills .hard ul {
+.skills .hardSkills ul {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -14,16 +14,16 @@
     list-style: none;
 }
 
-.skills .hard h3 {
+.skills .hardSkills h3 {
     margin-left: 1rem;
 }
 
-.skills .hard ul li img {
+.skills .hardSkills ul li img {
     max-width: 50px;
     margin: .5rem .5rem;
 }
 
-.skills .soft ul {
+.skills .softSkills ul {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -33,7 +33,7 @@
     padding: 0;
 }
 
-.skills .soft ul li {
+.skills .softSkills ul li {
     margin-left: 2rem;
     padding: .5rem;
 }
