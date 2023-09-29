@@ -14,12 +14,13 @@
     list-style: none;
 }
 
-.skills .hardSkills h3 {
+.skills .hardSkills .softSkills h3 {
     margin-left: 1rem;
 }
 
 .skills .hardSkills ul li img {
     max-width: 50px;
+    max-height: 50px;
     margin: .5rem .5rem;
 }
 
@@ -43,6 +44,6 @@
     .skills {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        }
+    }
 
 }
