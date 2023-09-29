@@ -55,6 +55,23 @@
     "Inglês",
     "Espanhol"
   ],
+  "education": [
+    {
+      "name": "Undergraduate degree in Software Engineer",
+      "institution": "College: Faculdade Anhanguera",
+      "period": "August/2023 - December/2025"
+    },
+    {
+      "name": "MBA - Business Management",
+      "institution": "Institution: FGV - Fundação Getúlio Vargas",
+      "period": "February/2012 - November/2014"
+    },
+    {
+      "name": "Undergraduate degree in Business Administration",
+      "institution": "University: UNG - Universidade de Guarulhos",
+      "period": "February/1993 - November/199"
+    }
+  ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
