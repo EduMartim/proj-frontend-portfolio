@@ -43,13 +43,17 @@ function updateLanguages(profileData) {
 }
 
 function updateEducation(profileData) {
-  const education = document.getElementById("profile.education");
-  education.innerHTML = profileData.education
-    .map(language => `<li>${language}</li>`)
+  const educationList = document.getElementById("profile.education");
+  educationList.innerHTML = profileData.education
+    .map(education => `
+      <li>
+        <p><strong>${education.name}</strong></p>
+        <p>${education.institution}</p>
+        <p>${education.period}</p>
+      </li>
+    `)
     .join("");
 }
-
-
 
 (async () => {
   const profileData = await fetchProfileData();
