@@ -9,35 +9,35 @@
     "hardSkills": [
       {
         "name": "Java",
-        "logo": "https://github.com/EduMartim/proj-frontend-portfolio/blob/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/EduMartim/proj-frontend-portfolio/main/data/imgs/java.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://github.com/EduMartim/proj-frontend-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/EduMartim/proj-frontend-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/EduMartim/proj-frontend-portfolio/blob/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/EduMartim/proj-frontend-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "C sharp",
-        "logo": "https://github.com/EduMartim/proj-frontend-portfolio/blob/main/data/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/EduMartim/proj-frontend-portfolio/main/data/imgs/csharp.png"
       },
       {
         "name": "Angular",
-        "logo": "https://github.com/EduMartim/proj-frontend-portfolio/blob/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/EduMartim/proj-frontend-portfolio/main/data/imgs/angular.png"
       },
       {
         "name": "TypeScript",
-        "logo": "https://github.com/EduMartim/proj-frontend-portfolio/blob/main/data/imgs/typescript.png"
+        "logo": "https://raw.githubusercontent.com/EduMartim/proj-frontend-portfolio/main/data/imgs/typescript.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://github.com/EduMartim/proj-frontend-portfolio/blob/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/EduMartim/proj-frontend-portfolio/main/data/imgs/mysql.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://github.com/EduMartim/proj-frontend-portfolio/blob/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/EduMartim/proj-frontend-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
