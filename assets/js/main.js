@@ -79,8 +79,8 @@ function updateProfessionalExperience(profileData) {
     .map((professionalExperience) => {
       return `
     <li>
-      <h3>${professionalExperience.name}</h3>
-      <p>${professionalExperience.period}</p>
+      <h3 class="title">${professionalExperience.name}</h3>
+      <p class="period">${professionalExperience.period}</p>
       <p>${professionalExperience.description}</p>
     </li>
     `
