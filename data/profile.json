@@ -74,31 +74,51 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "PlayStation Store Interface with Angular",
+      "url": "https://github.com/EduMartim/proj-psn-store",
+      "certificate": "https://www.dio.me/certificate/8B6FA8B5/share",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pokédex com JavaScript consuming API PokeAPI",
+      "url": "https://github.com/EduMartim/js-developer-pokedex",
+      "certificate": "https://www.dio.me/certificate/184C844C/share",
+      "github": true
+    },
+    {
+      "name": "CRUD using Angular for a Course Management System",
+      "url": "https://github.com/EduMartim/crud-angular",
+      "github": true
+    },
+    {
+      "name": "API using Java/Spring Boot and Angular for a Course Management System",
+      "url": "https://github.com/EduMartim/api-crud-spring",
+      "github": true
+    },
+    {
+      "name": "Creating a MVC project using C#",
+      "url": "https://github.com/EduMartim/Model-View-Controller-MVC-",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "Name": "Transiting to a new career as a Software Engineer with two years of intensive self-study and practical experience in Java, Python, JavaScript, C#, Angular, Spring, MySQL, HTML, CSS, and SCSS through bootcamps and online courses. Currently pursuing a formal Software Engineer degree, committed to a successful transition into the tech industry"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Real Estate Consultant, working for most of the main builders in São Paulo",
+      "period": "2018 - up to date",
+      "description": "Specialized in assisting individuals and organizations in buying, selling, renting, or managing real estate properties, facilitating real estate transactions and providing expert guidance throughout the process."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Regional Sales Manager Brazil, working for a multinational airline company",
+      "period": "1997 - 2016",
+      "description": "Leading a high level team of Sales Executives, overseeing the sales and operations and strategies within Brazil as region. This role involves a mix of leadership, sales management, and strategic planning responsibilities."
+    },
+    {
+      "name": "Account Executive, working for a multinational airline company",
+      "period": "1995 - 1997",
+      "description": "Build and maintain strong relationships with clients or customers and to sell the company's products and services."
     }
   ]
 }
