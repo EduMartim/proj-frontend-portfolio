@@ -53,7 +53,7 @@ function updateEducation(profileData) {
       <li>
         <p><strong>${education.name}</strong></p>
         <p>${education.institution}</p>
-        <p>${education.period}</p>
+        <p class="period">${education.period}</p>
       </li>
     `
     )
